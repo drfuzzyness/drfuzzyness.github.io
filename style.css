@@ -1,5 +1,7 @@
+/* Super quick and dirty. We'll have a real website one day.*/
+
 body{
-	background: url('bg.png') #FDF8C8 bottom center;
+	background: #FDF8C8 bottom center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	height: 100%;
